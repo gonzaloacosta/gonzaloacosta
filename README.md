@@ -45,10 +45,4 @@ My name is Gonzalo: `gonzaloacosta` here :]
     </br>
 </p>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=gonzaloacosta&show_icons=true&theme=highcontrast" alt="gonzaloacostalanguages" />
-    </br>
-    </br>
-</p>
-
 ---
